@@ -1,0 +1,1 @@
+Initial website/web development project based on instructions from the Odin Project. Initially just contains HTML, but CSS/JavaScript capabilities will be added
